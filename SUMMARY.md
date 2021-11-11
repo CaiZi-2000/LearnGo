@@ -7,3 +7,4 @@
   * [4. 整型](ji-chu-zhi-shi/4.-zheng-xing.md)
   * [5. 浮点型](ji-chu-zhi-shi/5.-fu-dian-xing.md)
   * [6. 布尔型](ji-chu-zhi-shi/6.-bu-er-xing.md)
+  * [8. 复数](ji-chu-zhi-shi/8.-fu-shu.md)

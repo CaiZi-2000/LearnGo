@@ -10,3 +10,4 @@
   * [7. 字符串](<undefined (4).md>)
   * [8. 复数](<undefined (1).md>)
   * [9. byte 和 rune](readme/9.-byte-he-rune.md)
+  * [10. 数组](readme/10.-shu-zu.md)

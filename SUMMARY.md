@@ -15,3 +15,4 @@
   * [12. Map](readme/12.-map.md)
   * [13. 指针](readme/13.-zhi-zhen.md)
   * [14. 结构体](readme/14.-jie-gou-ti.md)
+  * [15. 函数](readme/15.-han-shu.md)

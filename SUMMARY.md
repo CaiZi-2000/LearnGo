@@ -18,3 +18,4 @@
   * [15. 函数](readme/15.-han-shu.md)
   * [16. 包](readme/16.-bao.md)
   * [17. 条件语句](readme/17.-tiao-jian-yu-ju.md)
+  * [18. 选择语句](readme/18.-xuan-ze-yu-ju.md)

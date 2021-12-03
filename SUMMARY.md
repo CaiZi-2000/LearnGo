@@ -20,3 +20,4 @@
   * [17. 条件语句](readme/17.-tiao-jian-yu-ju.md)
   * [18. 选择语句](readme/18.-xuan-ze-yu-ju.md)
   * [19. 循环语句](readme/19.-xun-huan-yu-ju.md)
+  * [20. defer 延迟调用](readme/20.-defer-yan-chi-tiao-yong.md)

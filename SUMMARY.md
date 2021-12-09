@@ -25,3 +25,4 @@
   * [22. 方法](readme/22.-fang-fa.md)
   * [23. 接口](readme/23.-jie-kou.md)
   * [24. go 协程](readme/24.-go-xie-cheng.md)
+  * [25. channel 信道](readme/25.-channel-xin-dao.md)

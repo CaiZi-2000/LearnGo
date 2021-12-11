@@ -27,3 +27,4 @@
   * [24. go 协程](readme/24.-go-xie-cheng.md)
   * [25. channel 信道](readme/25.-channel-xin-dao.md)
   * [26. WaitGroup](readme/26.-waitgroup.md)
+  * [27. Select](readme/27.-select.md)

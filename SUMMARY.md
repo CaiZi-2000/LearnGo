@@ -28,3 +28,4 @@
   * [25. channel 信道](readme/25.-channel-xin-dao.md)
   * [26. WaitGroup](readme/26.-waitgroup.md)
   * [27. Select](readme/27.-select.md)
+  * [28. 互斥锁与读写锁](readme/28.-hu-chi-suo-yu-du-xie-suo.md)

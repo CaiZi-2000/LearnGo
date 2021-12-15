@@ -29,3 +29,4 @@
   * [26. WaitGroup](readme/26.-waitgroup.md)
   * [27. Select](readme/27.-select.md)
   * [28. 互斥锁与读写锁](readme/28.-hu-chi-suo-yu-du-xie-suo.md)
+  * [29. 错误处理](readme/29.-cuo-wu-chu-li.md)

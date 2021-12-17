@@ -31,3 +31,4 @@
   * [28. 互斥锁与读写锁](readme/28.-hu-chi-suo-yu-du-xie-suo.md)
   * [29. 错误处理](readme/29.-cuo-wu-chu-li.md)
   * [30. 异常处理](readme/30.-yi-chang-chu-li.md)
+  * [31. make 和 new](readme/31.-make-he-new.md)

@@ -36,4 +36,5 @@
   * [33. 静态类型与动态类型](readme/33.-jing-tai-lei-xing-yu-dong-tai-lei-xing.md)
   * [34. 协程池](readme/34.-xie-cheng-chi.md)
   * [35. 编码规范](readme/35.-bian-ma-gui-fan.md)
+  * [36. 使用 GDB 调试](readme/36.-shi-yong-gdb-tiao-shi.md)
 * [参考文献](can-kao-wen-xian.md)

@@ -40,4 +40,6 @@
   * [37. 反射](readme/37.-fan-she.md)
   * [38. 反射三大定律](readme/38.-fan-she-san-da-ding-lv.md)
   * [39. 结构体里的 Tag 标签](readme/39.-jie-gou-ti-li-de-tag-biao-qian.md)
+* [高级部分](gao-ji-bu-fen/README.md)
+  * [40. CGO 编程入门(一)](gao-ji-bu-fen/40.-cgo-bian-cheng-ru-men-yi.md)
 * [参考文献](can-kao-wen-xian.md)

@@ -42,4 +42,5 @@
   * [39. 结构体里的 Tag 标签](readme/39.-jie-gou-ti-li-de-tag-biao-qian.md)
 * [高级部分](gao-ji-bu-fen/README.md)
   * [40. CGO 编程入门](gao-ji-bu-fen/40.-cgo-bian-cheng-ru-men.md)
+  * [41. import "C"](gao-ji-bu-fen/41.-import-c.md)
 * [参考文献](can-kao-wen-xian.md)

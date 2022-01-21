@@ -44,4 +44,5 @@
   * [40. CGO 编程入门](gao-ji-bu-fen/40.-cgo-bian-cheng-ru-men.md)
   * [41. import "C"](gao-ji-bu-fen/41.-import-c.md)
   * [42. #cgo](gao-ji-bu-fen/42.-cgo.md)
+  * [43. 类型转换](gao-ji-bu-fen/43.-lei-xing-zhuan-huan.md)
 * [参考文献](can-kao-wen-xian.md)
